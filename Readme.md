@@ -27,17 +27,6 @@ You can check out a live demo of the admin panel [here](https://RafiEver.github.
 
 
 2.--text: #fff; (Change this for sidebar text color)
+
+
 3.--hover: #e41c1c;(Change this for sidebar text  color)
-4.add a new nav element using it on nav ul
-
-
- "<li><a href="#"><i class="fas fa-cog"></i> <span>your item name</span></a></li>"
-
-5. use it for submenu
-
- <li class="dontNavigate"><a href="#"><i class="fas fa-book"></i></i> <span>your item name</span></a>
-    <ul>
-        <li><a href="#">your subitem name</a></li>
-        <li><a href="#">your subitem name</a></li>
-    </ul>
-</li>
